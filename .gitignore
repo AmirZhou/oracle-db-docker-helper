@@ -1,0 +1,6 @@
+oracle-data/
+
+# dotenv environment variable files
+.env
+.env.*
+!.env.example
